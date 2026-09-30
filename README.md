@@ -14,7 +14,7 @@ Repositório de documentação de arquitetura (pós-graduação em Arquitetura d
 | `domain/` | Bounded contexts, agregados e modelo de domínio |
 | `documentation/` | Arquitetura, integrações e deployment |
 | `references/` | Livros, artigos e papers |
-| `templates/` | Templates de ADR, RFC e RF |
+| `templates/` | Templates de ADR, RFC, RF e RNF |
 
 ## Como contribuir
 
