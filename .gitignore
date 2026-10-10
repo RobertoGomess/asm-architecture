@@ -1,4 +1,44 @@
-.DS_Store
-Thumbs.db
+# Build
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+out/
+
+# Visual Studio / Rider / VS Code
+.vs/
 .idea/
 .vscode/
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
+
+# Testes e cobertura
+TestResults/
+*.trx
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Logs
+*.log
+logs/
+
+# Segredos e configurações locais (importante!)
+.env
+.env.*
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
