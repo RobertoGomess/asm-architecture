@@ -1,0 +1,2241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- created with diagram-js / http://bpmn.io -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color:white" width="4120" height="1602" viewBox="130 -22 4135 1617" version="1.1"><defs><marker id="activity-black-black-d4b8rnoiydrzqpiyv8xm5g663" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="fill: black; stroke-width: 1px; stroke-linecap: round; stroke-dasharray: 10000, 1; stroke: black;"/></marker></defs><g class="djs-group"><g class="djs-element djs-shape" style = "display:block" transform="translate(135 8)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 30; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="8" y="10" font-size="30">Oficina - Domain Storytelling</tspan></text></g></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_g_at" style="display: block;" transform="matrix(1 0 0 1 150 100)"><g class="djs-visual"><rect x="0" y="0" width="790" height="574" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: none;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="8" y="18.799999999999997">Atendimento</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="790" height="574" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="800" height="584" class="djs-outline" style="fill: none;"/></g><g class="djs-children"><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_shape_5852" style="display: block;" transform="matrix(1 0 0 1 549 435)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.85 7h10.29l1.08 3.11H5.77L6.85 7zM19 17H5v-5h14v5z"/><circle cx="7.5" cy="14.5" r="1.5"/><circle cx="16.5" cy="14.5" r="1.5"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="17.818359375" y="74.75">Veículo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_os_vei" style="display: block;" transform="matrix(1 0 0 1 549 551)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="10.8251953125" y="74.75">OS com o </tspan><tspan x="18.4892578125" y="88.75">veículo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_os1" style="display: block;" transform="matrix(1 0 0 1 549 143)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="10.822265625" y="74.75">Ordem de </tspan><tspan x="3.1611328125" y="88.75">Serviço (OS)</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_n_dados" style="display: block;" transform="matrix(1 0 0 1 682 357)"><g class="djs-visual"><rect x="0" y="0" width="230.72705802968963" height="101.59412955465588" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,101.59412955465588 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">Dados do cliente e veículo informados: </tspan><tspan x="5" y="30.199999999999996">nome, documento, e-mail, telefone, </tspan><tspan x="5" y="44.599999999999994">placa, marca, modelo e ano do veículo. </tspan><tspan x="5" y="58.99999999999999">Cliente e veículo só são cadastrados se</tspan><tspan x="5" y="73.39999999999999">forem novos</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="230.72705802968963" height="101.59412955465588" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="240.72705802968963" height="111.59412955465588" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_dados" style="display: block;" transform="matrix(1 0 0 1 193 299)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" height="48.75" viewBox="0 0 24 26" width="48.75" x="12.5" y="12.5"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="11.8154296875" y="74.75">Dados do </tspan><tspan x="6.8115234375" y="88.75">cliente e do </tspan><tspan x="18.4892578125" y="102.75">veículo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_cad_cli" style="display: block;" transform="matrix(1 0 0 1 549 274)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path d="M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="18.8232421875" y="74.75">Cliente </tspan><tspan x="4.1689453125" y="88.75">(CPF/CNPJ)</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_at1" style="display: block;" transform="matrix(1 0 0 1 193 484)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="10.142578125" y="75">Atendente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_g_diag" style="display: block;" transform="matrix(1 0 0 1 980 100)"><g class="djs-visual"><rect x="0" y="0" width="790" height="574" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: none;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="8" y="18.799999999999997">Diagnóstico</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="790" height="574" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="800" height="584" class="djs-outline" style="fill: none;"/></g><g class="djs-children"><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_serv" style="display: block;" transform="matrix(1 0 0 1 1323 265)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path d="M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="17.4931640625" y="74.75">Serviço</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_diag" style="display: block;" transform="matrix(1 0 0 1 1323 579)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="6.1494140625" y="74.75">Diagnóstico</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_g_ent" style="display: block;" transform="matrix(1 0 0 1 3470 100)"><g class="djs-visual"><rect x="0" y="0" width="790" height="574" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: none;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="8" y="18.799999999999997">Entrega</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="790" height="574" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="800" height="584" class="djs-outline" style="fill: none;"/></g><g class="djs-children"><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_at2" style="display: block;" transform="matrix(1 0 0 1 3513 443)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="10.142578125" y="75">Atendente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_g_exe" style="display: block;" transform="matrix(1 0 0 1 2645 98)"><g class="djs-visual"><rect x="0" y="0" width="790" height="576" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: none;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="8" y="18.799999999999997">Execução</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="790" height="576" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="800" height="586" class="djs-outline" style="fill: none;"/></g><g class="djs-children"><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_sis3" style="display: block;" transform="matrix(1 0 0 1 2688 141)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="7.4853515625" y="75">Sistema da </tspan><tspan x="20.15625" y="89">oficina</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_shape_8604" style="display: block;" transform="matrix(1 0 0 1 3136 463)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.85 7h10.29l1.08 3.11H5.77L6.85 7zM19 17H5v-5h14v5z"/><circle cx="7.5" cy="14.5" r="1.5"/><circle cx="16.5" cy="14.5" r="1.5"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="17.818359375" y="74.75">Veículo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_se2" style="display: block;" transform="matrix(1 0 0 1 2970 331)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="2.150390625" y="75">Serviço de e-</tspan><tspan x="26.4990234375" y="89">mail</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_n_link" style="display: block;" transform="matrix(1 0 0 1 3110 260)"><g class="djs-visual"><rect x="0" y="0" width="160" height="55" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,55 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">Ao iniciar a execução, o </tspan><tspan x="5" y="30.199999999999996">cliente recebe o link para</tspan><tspan x="5" y="44.599999999999994">acompanhamento da OS</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="160" height="55" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="170" height="65" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_mec2" style="display: block;" transform="matrix(1 0 0 1 2688 463)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="11.8212890625" y="75">Mecânico</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_mail_ac" style="display: block;" transform="matrix(1 0 0 1 2688 331)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path fill-opacity="0.9" d="M12,1.95c-5.52,0-10,4.48-10,10s4.48,10,10,10h5v-2h-5c-4.34,0-8-3.66-8-8s3.66-8,8-8s8,3.66,8,8v1.43 c0,0.79-0.71,1.57-1.5,1.57S17,14.17,17,13.38v-1.43c0-2.76-2.24-5-5-5s-5,2.24-5,5s2.24,5,5,5c1.38,0,2.64-0.56,3.54-1.47 c0.65,0.89,1.77,1.47,2.96,1.47c1.97,0,3.5-1.6,3.5-3.57v-1.43C22,6.43,17.52,1.95,12,1.95z M12,14.95c-1.66,0-3-1.34-3-3 s1.34-3,3-3s3,1.34,3,3S13.66,14.95,12,14.95z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="12.158203125" y="74.75">E-mail de </tspan><tspan x="0" y="88.75">acompanhame</tspan><tspan x="29.1591796875" y="102.75">nto</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_ins_os" style="display: block;" transform="matrix(1 0 0 1 2988 141)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path d="M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="0" y="74.75">Insumos da OS</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_exe_fim" style="display: block;" transform="matrix(1 0 0 1 3136 557)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="10.822265625" y="74.75">Ordem de </tspan><tspan x="3.1611328125" y="88.75">Serviço (OS)</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_est1" style="display: block;" transform="matrix(1 0 0 1 3288 141)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="9.4833984375" y="75">Estoquista</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_cli3" style="display: block;" transform="matrix(1 0 0 1 3288 331)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="18.8232421875" y="75">Cliente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_g_orc" style="display: block;" transform="matrix(1 0 0 1 1810 100)"><g class="djs-visual"><rect x="0" y="0" width="790" height="574" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: none;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="8" y="18.799999999999997">Orçamento</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="790" height="574" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="800" height="584" class="djs-outline" style="fill: none;"/></g><g class="djs-children"><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_se1" style="display: block;" transform="matrix(1 0 0 1 2153 443)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="2.150390625" y="75">Serviço de e-</tspan><tspan x="26.4990234375" y="89">mail</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_g_ga" style="display: block;" transform="matrix(1 0 0 1 1715 861)"><g class="djs-visual"><rect x="0" y="0" width="840" height="714" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: none;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="8" y="18.799999999999997">Gestão administrativa</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="840" height="714" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="850" height="724" class="djs-outline" style="fill: none;"/></g><g class="djs-children"><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_vei" style="display: block;" transform="matrix(1 0 0 1 2098 1090)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path d="M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="17.818359375" y="74.75">Veículo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_serv" style="display: block;" transform="matrix(1 0 0 1 2098 1266)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path d="M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="16.4853515625" y="74.75">Lista de </tspan><tspan x="14.4931640625" y="88.75">Serviços</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_n_ind" style="display: block;" transform="matrix(1 0 0 1 2298 960)"><g class="djs-visual"><rect x="0" y="0" width="152" height="84" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,84 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">Atividades independentes </tspan><tspan x="5" y="30.199999999999996">entre si. Consultas por </tspan><tspan x="5" y="44.599999999999994">documento, placa, nome </tspan><tspan x="5" y="58.99999999999999">ou código</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="152" height="84" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="162" height="94" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_mec" style="display: block;" transform="matrix(1 0 0 1 2443 1266)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="11.8212890625" y="75">Mecânico</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_ins" style="display: block;" transform="matrix(1 0 0 1 2098 1476)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path d="M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="17.82421875" y="74.75">Insumo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_cli" style="display: block;" transform="matrix(1 0 0 1 2098 915)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path d="M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="18.8232421875" y="74.75">Cliente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_g_rej" style="display: block;" transform="matrix(1 0 0 1 155 861)"><g class="djs-visual"><rect x="0" y="0" width="1432" height="670" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: none;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="8" y="18.799999999999997">Orçamento rejeitado e devolução</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="1432" height="670" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="1442" height="680" class="djs-outline" style="fill: none;"/></g><g class="djs-children"><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_vei" style="display: block;" transform="matrix(1 0 0 1 511 1361)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.85 7h10.29l1.08 3.11H5.77L6.85 7zM19 17H5v-5h14v5z"/><circle cx="7.5" cy="14.5" r="1.5"/><circle cx="16.5" cy="14.5" r="1.5"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="17.818359375" y="74.75">Veículo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_sis" style="display: block;" transform="matrix(1 0 0 1 1152 1169)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="7.4853515625" y="75">Sistema da </tspan><tspan x="20.15625" y="89">oficina</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_se" style="display: block;" transform="matrix(1 0 0 1 511 1169)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="2.150390625" y="75">Serviço de e-</tspan><tspan x="26.4990234375" y="89">mail</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_os" style="display: block;" transform="matrix(1 0 0 1 1152 941)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="28.8310546875" y="74.75">OS</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_orc" style="display: block;" transform="matrix(1 0 0 1 511 941)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="7.822265625" y="74.75">Orçamento</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_n_reprov" style="display: block;" transform="matrix(1 0 0 1 1105 1325)"><g class="djs-visual"><rect x="0" y="0" width="169.9924698795181" height="89.99838640275388" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,89.99838640275388 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">A OS reprovada não passa </tspan><tspan x="5" y="30.199999999999996">pela execução, segue direto </tspan><tspan x="5" y="44.599999999999994">para a entrega do veículo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="169.9924698795181" height="89.99838640275388" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="179.9924698795181" height="99.99838640275388" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_mail_ent" style="display: block;" transform="matrix(1 0 0 1 832 1169)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path fill-opacity="0.9" d="M12,1.95c-5.52,0-10,4.48-10,10s4.48,10,10,10h5v-2h-5c-4.34,0-8-3.66-8-8s3.66-8,8-8s8,3.66,8,8v1.43 c0,0.79-0.71,1.57-1.5,1.57S17,14.17,17,13.38v-1.43c0-2.76-2.24-5-5-5s-5,2.24-5,5s2.24,5,5,5c1.38,0,2.64-0.56,3.54-1.47 c0.65,0.89,1.77,1.47,2.96,1.47c1.97,0,3.5-1.6,3.5-3.57v-1.43C22,6.43,17.52,1.95,12,1.95z M12,14.95c-1.66,0-3-1.34-3-3 s1.34-3,3-3s3,1.34,3,3S13.66,14.95,12,14.95z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="12.158203125" y="74.75">E-mail de </tspan><tspan x="17.150390625" y="88.75">entrega</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_ins_os" style="display: block;" transform="matrix(1 0 0 1 1462 1169)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path d="M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="0" y="74.75">Insumos da OS</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_at" style="display: block;" transform="matrix(1 0 0 1 832 1361)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="10.142578125" y="75">Atendente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_cli1" style="display: block;" transform="matrix(1 0 0 1 193 143)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="18.8232421875" y="75">Cliente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_cli2" style="display: block;" transform="matrix(1 0 0 1 2453 443)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="18.8232421875" y="75">Cliente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_cli4" style="display: block;" transform="matrix(1 0 0 1 4113 443)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="18.8232421875" y="75">Cliente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_insumo" style="display: block;" transform="matrix(1 0 0 1 1323 443)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path d="M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="17.82421875" y="74.75">Insumo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_mail_ent" style="display: block;" transform="matrix(1 0 0 1 3813 143)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path fill-opacity="0.9" d="M12,1.95c-5.52,0-10,4.48-10,10s4.48,10,10,10h5v-2h-5c-4.34,0-8-3.66-8-8s3.66-8,8-8s8,3.66,8,8v1.43 c0,0.79-0.71,1.57-1.5,1.57S17,14.17,17,13.38v-1.43c0-2.76-2.24-5-5-5s-5,2.24-5,5s2.24,5,5,5c1.38,0,2.64-0.56,3.54-1.47 c0.65,0.89,1.77,1.47,2.96,1.47c1.97,0,3.5-1.6,3.5-3.57v-1.43C22,6.43,17.52,1.95,12,1.95z M12,14.95c-1.66,0-3-1.34-3-3 s1.34-3,3-3s3,1.34,3,3S13.66,14.95,12,14.95z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="12.158203125" y="74.75">E-mail de </tspan><tspan x="17.150390625" y="88.75">entrega</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_mail_orc" style="display: block;" transform="matrix(1 0 0 1 1853 443)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="48.75" height="48.75" x="12.5" y="12.5"><path fill="none" d="M0,0h24v24H0V0z"/><path fill-opacity="0.9" d="M12,1.95c-5.52,0-10,4.48-10,10s4.48,10,10,10h5v-2h-5c-4.34,0-8-3.66-8-8s3.66-8,8-8s8,3.66,8,8v1.43 c0,0.79-0.71,1.57-1.5,1.57S17,14.17,17,13.38v-1.43c0-2.76-2.24-5-5-5s-5,2.24-5,5s2.24,5,5,5c1.38,0,2.64-0.56,3.54-1.47 c0.65,0.89,1.77,1.47,2.96,1.47c1.97,0,3.5-1.6,3.5-3.57v-1.43C22,6.43,17.52,1.95,12,1.95z M12,14.95c-1.66,0-3-1.34-3-3 s1.34-3,3-3s3,1.34,3,3S13.66,14.95,12,14.95z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="12.158203125" y="74.75">E-mail de </tspan><tspan x="9.15234375" y="88.75">orçamento</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_mec1" style="display: block;" transform="matrix(1 0 0 1 1023 443)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="11.8212890625" y="75">Mecânico</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_n_orc" style="display: block;" transform="matrix(1 0 0 1 2405 150)"><g class="djs-visual"><rect x="0" y="0" width="170" height="70" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,70 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">Orçamento = serviços + </tspan><tspan x="5" y="30.199999999999996">preço x quantidade de cada </tspan><tspan x="5" y="44.599999999999994">insumo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="170" height="70" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="180" height="80" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_n_reserva" style="display: block;" transform="matrix(1 0 0 1 1575 600)"><g class="djs-visual"><rect x="0" y="0" width="170" height="54" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,54 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">Reserva a quantidade </tspan><tspan x="5" y="30.199999999999996">disponível</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="170" height="54" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="180" height="64" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_orc" style="display: block;" transform="matrix(1 0 0 1 2153 143)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="7.822265625" y="74.75">Orçamento</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_os2" style="display: block;" transform="matrix(1 0 0 1 1323 143)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="28.8310546875" y="74.75">OS</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_se3" style="display: block;" transform="matrix(1 0 0 1 4113 143)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="2.150390625" y="75">Serviço de e-</tspan><tspan x="26.4990234375" y="89">mail</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_shape_3336" style="display: block;" transform="matrix(1 0 0 1 3813 443)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" width="48.75" height="48.75" viewBox="0 0 24 26" x="12.5" y="12.5"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.85 7h10.29l1.08 3.11H5.77L6.85 7zM19 17H5v-5h14v5z"/><circle cx="7.5" cy="14.5" r="1.5"/><circle cx="16.5" cy="14.5" r="1.5"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="17.818359375" y="74.75">Veículo</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_sis1" style="display: block;" transform="matrix(1 0 0 1 1623 443)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="7.4853515625" y="75">Sistema da </tspan><tspan x="20.15625" y="89">oficina</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_sis2" style="display: block;" transform="matrix(1 0 0 1 1853 143)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="7.4853515625" y="75">Sistema da </tspan><tspan x="20.15625" y="89">oficina</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_sis4" style="display: block;" transform="matrix(1 0 0 1 3513 143)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="7.4853515625" y="75">Sistema da </tspan><tspan x="20.15625" y="89">oficina</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ap_titulo" style="display: block;" transform="matrix(1 0 0 1 150 43)"><g class="djs-visual"><rect x="0" y="0" width="320" height="30" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,30 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">OS com orçamento aprovado</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="320" height="30" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="330" height="40" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_at" style="display: block;" transform="matrix(1 0 0 1 1753 1090)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="10.142578125" y="75">Atendente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_est" style="display: block;" transform="matrix(1 0 0 1 1753 1476)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="9.4833984375" y="75">Estoquista</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ga_titulo" style="display: block;" transform="matrix(1 0 0 1 1715 806)"><g class="djs-visual"><rect x="0" y="0" width="320" height="30" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,30 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">Gestão administrativa</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="320" height="30" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="330" height="40" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_cli" style="display: block;" transform="matrix(1 0 0 1 191 1169)"><g class="djs-visual"><svg xmlns="http://www.w3.org/2000/svg" fill=" black" viewBox="0 0 24 26" width="75" height="75"><path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/><path d="M0 0h24v24H0z" fill="none"/></svg><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(0, 0, 0);"><tspan x="18.8232421875" y="75">Cliente</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="75" height="75" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="85" height="85" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="rj_titulo" style="display: block;" transform="matrix(1 0 0 1 155 806)"><g class="djs-visual"><rect x="0" y="0" width="319.99840459476707" height="29.993618379068284" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,29.993618379068284 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">OS com orçamento rejeitado</tspan></text></g><rect class="djs-hit djs-hit-all" x="0" y="0" width="319.99840459476707" height="29.993618379068284" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-5" y="-5" rx="4" width="329.99840459476707" height="39.99361837906828" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_0" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M231,228L230,299"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="249.45517058582766" y="248.76897648503413">informa</tspan></text><path d="
+      M 230.64136468662116 248
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="226.64136468662116" y="252">1</tspan></text></g><path d="M231,228L230,299" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="225" y="223" rx="4" width="11" height="81" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_1" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M231,416.75L231,484"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="245" y="450.375">ao</tspan></text></g><path d="M231,416.75L231,484" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="226" y="411.75" rx="4" width="10" height="77.25" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_10" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1061,528L1061,616L1323,616"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1168.15" y="631">conclui</tspan></text><path d="
+      M 1061 548
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1054" y="552">10</tspan></text></g><path d="M1061,528L1061,616L1323,616" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1056" y="523" rx="4" width="272" height="98" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_11" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1934,180L2146,180"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2023.8" y="195">gera</tspan></text><path d="
+      M 1954 180
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1947" y="184">11</tspan></text></g><path d="M1934,180L2146,180" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1929" y="175" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_12" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1890,248L1890,436"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1904" y="342">envia</tspan></text><path d="
+      M 1890 268
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1883" y="272">12</tspan></text></g><path d="M1890,248L1890,436" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1885" y="243" rx="4" width="10" height="198" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_13" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1934,480L2146,480"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2023.8" y="495">pelo</tspan></text></g><path d="M1934,480L2146,480" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1929" y="475" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_14" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M2234,480L2446,480"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2328.9" y="495">ao</tspan></text><path d="
+      M 2254 480
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2247" y="484">12</tspan></text></g><path d="M2234,480L2446,480" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2229" y="475" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_15" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M2446,436L2234,224"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2356.5" y="325">aprova pelo link do e-mail</tspan></text><path d="
+      M 2426 416
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2419" y="420">13</tspan></text></g><path d="M2446,436L2234,224" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2229" y="219" rx="4" width="222" height="222" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_16" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M2769,178L2981,178"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2820.55" y="193">dá baixa no estoque</tspan></text><path d="
+      M 2789 178
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2782" y="182">14</tspan></text></g><path d="M2769,178L2981,178" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2764" y="173" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_17" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M3281,178L3069,178"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3128.2" y="193">separa para a OS</tspan></text><path d="
+      M 3261 178
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3254" y="182">15</tspan></text></g><path d="M3281,178L3069,178" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="3064" y="173" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_19" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M2726,245L2725,331"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2744.4629888905456" y="273.2220666567277">envia</tspan></text><path d="
+      M 2725.703911124363 265
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2718.703911124363" y="269">17</tspan></text></g><path d="M2726,245L2725,331" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2720" y="240" rx="4" width="11" height="96" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_2" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M248,497L421,245L549,196"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="344.24498457872676" y="376.74498457872676">inicia</tspan></text><path d="
+      M 259.4899691574536 477
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="255.48996915745357" y="481">2</tspan></text></g><path d="M248,497L421,245L549,196" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="243" y="191" rx="4" width="311" height="311" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_20" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M2769,369L2970,369"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2853.3" y="384">pelo</tspan></text></g><path d="M2769,369L2970,369" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2764" y="364" rx="4" width="211" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_21" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M3051,369L3288,369"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3158.4" y="384">ao</tspan></text><path d="
+      M 3071 369
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3064" y="373">17</tspan></text></g><path d="M3051,369L3288,369" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="3046" y="364" rx="4" width="247" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_22" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M2726,548L2726,595L3136,595"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2904.6" y="610">finaliza</tspan></text><path d="
+      M 2726 568
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2719" y="572">18</tspan></text></g><path d="M2726,548L2726,595L3136,595" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2721" y="543" rx="4" width="420" height="57" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_23" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M3594,180L3806,180"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3681.25" y="195">envia</tspan></text><path d="
+      M 3614 180
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3607" y="184">19</tspan></text></g><path d="M3594,180L3806,180" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="3589" y="175" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_24" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M3894,180L4106,180"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3983.8" y="195">pelo</tspan></text></g><path d="M3894,180L4106,180" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="3889" y="175" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_25" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M4150,248L4150,436"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="4164" y="342">ao</tspan></text><path d="
+      M 4150 268
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="4143" y="272">19</tspan></text></g><path d="M4150,248L4150,436" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="4145" y="243" rx="4" width="10" height="198" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_26" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M3594,480L3806,480"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3676.15" y="495">entrega</tspan></text><path d="
+      M 3614 480
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3607" y="484">20</tspan></text></g><path d="M3594,480L3806,480" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="3589" y="475" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_27" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M3894,480L4106,480"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="3988.9" y="495">ao</tspan></text></g><path d="M3894,480L4106,480" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="3889" y="475" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_3" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M258,506L549,334"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="417.40235668936066" y="429.90235668936066">cadastra</tspan></text><path d="
+      M 278 492.4062845049617
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="274" y="496.4062845049617">3</tspan></text></g><path d="M258,506L549,334" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="253" y="329" rx="4" width="301" height="182" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_4" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M274,522L399,522L549,483"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="310.1" y="537">cadastra</tspan></text><path d="
+      M 294 522
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="290" y="526">4</tspan></text></g><path d="M274,522L399,522L549,483" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="269" y="478" rx="4" width="285" height="49" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_5" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M261,544L321,589L549,589"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="413.7" y="604">recebe</tspan></text><path d="
+      M 281 556.289965881948
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="277" y="560.289965881948">5</tspan></text></g><path d="M261,544L321,589L549,589" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="256" y="539" rx="4" width="298" height="55" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_6" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1060,443L1060,180L1323,180"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1126.85" y="195">inicia o diagnóstico da</tspan></text><path d="
+      M 1060 423
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1056" y="427">6</tspan></text></g><path d="M1060,443L1060,180L1323,180" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1055" y="175" rx="4" width="273" height="273" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_7" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1088,465L1323,324"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1219.339373911321" y="404.3393739113211">inclui na OS</tspan></text><path d="
+      M 1108 451.23833043018954
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1104" y="455.23833043018954">7</tspan></text></g><path d="M1088,465L1323,324" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1083" y="319" rx="4" width="245" height="151" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_8" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1104,480L1316,480"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1173.4" y="495">inclui na OS</tspan></text><path d="
+      M 1124 480
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1120" y="484">8</tspan></text></g><path d="M1104,480L1316,480" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1099" y="475" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_act_9" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1616,480L1404,480"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1458.1" y="495">reserva no estoque</tspan></text><path d="
+      M 1596 480
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1592" y="484">9</tspan></text></g><path d="M1616,480L1404,480" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1399" y="475" rx="4" width="222" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_connection_0224" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M2769,501L3136,501"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2875.1" y="516">executa os serviços da OS no</tspan></text><path d="
+      M 2789 501
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2782" y="505">16</tspan></text></g><path d="M2769,501L3136,501" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2764" y="496" rx="4" width="377" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_n_dados_c0" style="display: block;"><g class="djs-visual"><path style="stroke: black; stroke-width: 1.5; stroke-linejoin: round; stroke-dasharray: 5, 5;" d="M616,335L678,384"/></g><path d="M616,335L678,384" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="611" y="330" rx="4" width="72" height="59" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_n_dados_c1" style="display: block;"><g class="djs-visual"><path style="stroke: black; stroke-width: 1.5; stroke-linejoin: round; stroke-dasharray: 5, 5;" d="M616,460L682,430"/></g><path d="M616,460L682,430" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="611" y="425" rx="4" width="76" height="40" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_n_link_c0" style="display: block;"><g class="djs-visual"><path style="stroke: black; stroke-width: 1.5; stroke-linejoin: round; stroke-dasharray: 5, 5;" d="M3039,358L3161,315"/></g><path d="M3039,358L3161,315" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="3034" y="310" rx="4" width="132" height="53" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_n_orc_c0" style="display: block;"><g class="djs-visual"><path style="stroke: black; stroke-width: 1.5; stroke-linejoin: round; stroke-dasharray: 5, 5;" d="M2234,181L2403,184"/></g><path d="M2234,181L2403,184" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2229" y="176" rx="4" width="179" height="13" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ap_n_reserva_c0" style="display: block;"><g class="djs-visual"><path style="stroke: black; stroke-width: 1.5; stroke-linejoin: round; stroke-dasharray: 5, 5;" d="M1404,501L1601,598"/></g><path d="M1404,501L1601,598" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1399" y="496" rx="4" width="207" height="107" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ga_act_0" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1790,1090L1790,953L2098,953"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1917.6" y="968">atualiza</tspan></text><path d="
+      M 1790 1070
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1786" y="1074">1</tspan></text></g><path d="M1790,1090L1790,953L2098,953" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1785" y="948" rx="4" width="318" height="147" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ga_act_1" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1832,1128L2094,1128"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1936.6" y="1143">atualiza</tspan></text><path d="
+      M 1852 1128
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1848" y="1132">2</tspan></text></g><path d="M1832,1128L2094,1128" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1827" y="1123" rx="4" width="272" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ga_act_2" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1790,1175L1790,1303L2098,1303"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1922.7" y="1318">mantém</tspan></text><path d="
+      M 1790 1195
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1786" y="1199">3</tspan></text></g><path d="M1790,1175L1790,1303L2098,1303" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1785" y="1170" rx="4" width="318" height="138" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ga_act_3" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M2439,1303L2177,1303"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2286.7" y="1318">mantém</tspan></text><path d="
+      M 2419 1303
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="2415" y="1307">3</tspan></text></g><path d="M2439,1303L2177,1303" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2172" y="1298" rx="4" width="272" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ga_act_4" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1832,1513L2094,1513"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1936.6" y="1528">atualiza</tspan></text><path d="
+      M 1852 1513
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1848" y="1517">4</tspan></text></g><path d="M1832,1513L2094,1513" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1827" y="1508" rx="4" width="272" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="ga_n_ind_c0" style="display: block;"><g class="djs-visual"><path style="stroke: black; stroke-width: 1.5; stroke-linejoin: round; stroke-dasharray: 5, 5;" d="M2179,962L2298,987"/></g><path d="M2179,962L2298,987" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="2174" y="957" rx="4" width="129" height="35" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="rj_act_0" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M229,1169L229,979L511,979"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="295.15" y="994">rejeita pelo link do e-mail</tspan></text><path d="
+      M 229 1149
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="222" y="1153">13</tspan></text></g><path d="M229,1169L229,979L511,979" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="224" y="974" rx="4" width="292" height="200" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="rj_act_1" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1190,1147L1190,1038"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1204" y="1092.5">encerra como reprovada</tspan></text><path d="
+      M 1190 1127
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1183" y="1131">14</tspan></text></g><path d="M1190,1147L1190,1038" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1185" y="1033" rx="4" width="10" height="119" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="rj_act_2" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1233,1207L1462,1207"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1272.65" y="1222">libera a reserva no estoque</tspan></text><path d="
+      M 1253 1207
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1246" y="1211">15</tspan></text></g><path d="M1233,1207L1462,1207" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1228" y="1202" rx="4" width="239" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="rj_act_3" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M1148,1207L911,1207"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1010.75" y="1222">envia</tspan></text><path d="
+      M 1128 1207
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="1121" y="1211">16</tspan></text></g><path d="M1148,1207L911,1207" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="906" y="1202" rx="4" width="247" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="rj_act_4" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M828,1207L590,1207"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="692.8" y="1222">pelo</tspan></text></g><path d="M828,1207L590,1207" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="585" y="1202" rx="4" width="248" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="rj_act_5" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M507,1207L270,1207"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="377.4" y="1222">ao</tspan></text><path d="
+      M 487 1207
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="480" y="1211">16</tspan></text></g><path d="M507,1207L270,1207" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="265" y="1202" rx="4" width="247" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="rj_act_6" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M832,1399L592,1399"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="688.15" y="1414">devolve</tspan></text><path d="
+      M 812 1399
+      m 11,0
+      a 11,11 0 1,0 -22,0
+      a 11,11 0 1,0 22,0
+      " style="fill: white; stroke: black;"/><text lineHeight="1.2" position="absolute" class="djs-labelNumber" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="805" y="1403">17</tspan></text></g><path d="M832,1399L592,1399" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="587" y="1394" rx="4" width="250" height="10" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="rj_act_7" style="display: block;"><g class="djs-visual"><path style="stroke: black; fill: none; stroke-width: 1.5; stroke-linejoin: round; marker-end: url('#activity-black-black-d4b8rnoiydrzqpiyv8xm5g663');" d="M511,1399L229,1399L229,1254"/><text lineHeight="1.2" wordWrap="break-word" overflowWrap="break-word" hyphens="auto" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="358.9" y="1414">ao</tspan></text></g><path d="M511,1399L229,1399L229,1254" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="224" y="1249" rx="4" width="292" height="155" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="rj_n_reprov_c0" style="display: block;"><g class="djs-visual"><path style="stroke: black; stroke-width: 1.5; stroke-linejoin: round; stroke-dasharray: 5, 5;" d="M909,1395L1105,1378"/></g><path d="M909,1395L1105,1378" class="djs-hit djs-hit-stroke" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="904" y="1373" rx="4" width="206" height="27" class="djs-outline" style="fill: none;"/></g></g></svg>
+<!-- <DST>
+{
+  "domain": {
+    "name": "default",
+    "actors": {
+      "System": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20,18c1.1,0,2-0.9,2-2V6c0-1.1-0.9-2-2-2H4C2.9,4,2,4.9,2,6v10c0,1.1,0.9,2,2,2H0v2h24v-2H20z M4,6h16v10H4V6z\"/></svg>",
+      "Group": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"48\" viewBox=\"0 0 24 26\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M16.5 13c-1.2 0-3.07.34-4.5 1-1.43-.67-3.3-1-4.5-1C5.33 13 1 14.08 1 16.25V19h22v-2.75c0-2.17-4.33-3.25-6.5-3.25zm-4 4.5h-10v-1.25c0-.54 2.56-1.75 5-1.75s5 1.21 5 1.75v1.25zm9 0H14v-1.25c0-.46-.2-.86-.52-1.22.88-.3 1.96-.53 3.02-.53 2.44 0 5 1.21 5 1.75v1.25zM7.5 12c1.93 0 3.5-1.57 3.5-3.5S9.43 5 7.5 5 4 6.57 4 8.5 5.57 12 7.5 12zm0-5.5c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm9 5.5c1.93 0 3.5-1.57 3.5-3.5S18.43 5 16.5 5 13 6.57 13 8.5s1.57 3.5 3.5 3.5zm0-5.5c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2z\"/></svg>",
+      "Person": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z\"/><path d=\"M0 0h24v24H0z\" fill=\"none\"/></svg>"
+    },
+    "workObjects": {
+      "Info": "<svg height=\"48\" viewBox=\"0 0 24 26\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z\"/></svg>",
+      "Conversation": "<svg height=\"48\" viewBox=\"0 0 24 26\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0 0h24v24H0V0z\" fill=\"none\"/><path d=\"M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z\"/></svg>",
+      "Email": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" d=\"M0,0h24v24H0V0z\"/><path fill-opacity=\"0.9\" d=\"M12,1.95c-5.52,0-10,4.48-10,10s4.48,10,10,10h5v-2h-5c-4.34,0-8-3.66-8-8s3.66-8,8-8s8,3.66,8,8v1.43 c0,0.79-0.71,1.57-1.5,1.57S17,14.17,17,13.38v-1.43c0-2.76-2.24-5-5-5s-5,2.24-5,5s2.24,5,5,5c1.38,0,2.64-0.56,3.54-1.47 c0.65,0.89,1.77,1.47,2.96,1.47c1.97,0,3.5-1.6,3.5-3.57v-1.43C22,6.43,17.52,1.95,12,1.95z M12,14.95c-1.66,0-3-1.34-3-3 s1.34-3,3-3s3,1.34,3,3S13.66,14.95,12,14.95z\"/></svg>",
+      "Call": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" d=\"M0,0h24v24H0V0z\"/><path d=\"M6.54,5C6.6,5.89,6.75,6.76,6.99,7.59l-1.2,1.2C5.38,7.59,5.12,6.32,5.03,5H6.54 M16.4,17.02c0.85,0.24,1.72,0.39,2.6,0.45 v1.49c-1.32-0.09-2.59-0.35-3.8-0.75L16.4,17.02 M7.5,3H4C3.45,3,3,3.45,3,4c0,9.39,7.61,17,17,17c0.55,0,1-0.45,1-1v-3.49\tc0-0.55-0.45-1-1-1c-1.24,0-2.45-0.2-3.57-0.57c-0.1-0.04-0.21-0.05-0.31-0.05c-0.26,0-0.51,0.1-0.71,0.29l-2.2,2.2 c-2.83-1.45-5.15-3.76-6.59-6.59l2.2-2.2C9.1,8.31,9.18,7.92,9.07,7.57C8.7,6.45,8.5,5.25,8.5,4C8.5,3.45,8.05,3,7.5,3L7.5,3z\"/></svg>",
+      "Folder": "<svg viewBox=\"0 0 24 26\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" d=\"M0,0h24v24H0V0z\"/><path d=\"M9.17,6l2,2H20v10L4,18V6H9.17 M10,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2 h-8L10,4L10,4z\"/></svg>",
+      "Document": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 26\"><path fill=\"none\" d=\"M0 0h24v24H0V0z\"/><path d=\"M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11z\"/></svg>",
+      "Car": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 26\"><path fill=\"none\" d=\"M0 0h24v24H0V0z\"/><path d=\"M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.85 7h10.29l1.08 3.11H5.77L6.85 7zM19 17H5v-5h14v5z\"/><circle cx=\"7.5\" cy=\"14.5\" r=\"1.5\"/><circle cx=\"16.5\" cy=\"14.5\" r=\"1.5\"/></svg>"
+    }
+  },
+  "dst": [
+    {
+      "id": "ap_act_0",
+      "name": "informa",
+      "type": "domainStory:activity",
+      "number": 1,
+      "multipleNumberAllowed": true,
+      "source": "ap_cli1",
+      "target": "ap_dados",
+      "waypoints": [
+        {
+          "original": {
+            "x": 231,
+            "y": 181
+          },
+          "x": 231,
+          "y": 228
+        },
+        {
+          "original": {
+            "x": 230,
+            "y": 336
+          },
+          "x": 230,
+          "y": 299
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_1",
+      "name": "ao",
+      "type": "domainStory:activity",
+      "multipleNumberAllowed": false,
+      "source": "ap_dados",
+      "target": "ap_at1",
+      "waypoints": [
+        {
+          "original": {
+            "x": 231,
+            "y": 337
+          },
+          "x": 231,
+          "y": 416.75
+        },
+        {
+          "original": {
+            "x": 231,
+            "y": 522
+          },
+          "x": 231,
+          "y": 484
+        }
+      ],
+      "pickedColor": "black",
+      "number": null
+    },
+    {
+      "id": "ap_act_10",
+      "name": "conclui",
+      "type": "domainStory:activity",
+      "number": 10,
+      "multipleNumberAllowed": false,
+      "source": "ap_mec1",
+      "target": "ap_diag",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1061,
+            "y": 481
+          },
+          "x": 1061,
+          "y": 528
+        },
+        {
+          "x": 1061,
+          "y": 616
+        },
+        {
+          "original": {
+            "x": 1360,
+            "y": 616
+          },
+          "x": 1323,
+          "y": 616
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_11",
+      "name": "gera",
+      "type": "domainStory:activity",
+      "number": 11,
+      "multipleNumberAllowed": false,
+      "source": "ap_sis2",
+      "target": "ap_orc",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1890,
+            "y": 180
+          },
+          "x": 1934,
+          "y": 180
+        },
+        {
+          "original": {
+            "x": 2190,
+            "y": 180
+          },
+          "x": 2146,
+          "y": 180
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_12",
+      "name": "envia",
+      "type": "domainStory:activity",
+      "number": 12,
+      "multipleNumberAllowed": true,
+      "source": "ap_sis2",
+      "target": "ap_mail_orc",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1890,
+            "y": 180
+          },
+          "x": 1890,
+          "y": 248
+        },
+        {
+          "original": {
+            "x": 1890,
+            "y": 480
+          },
+          "x": 1890,
+          "y": 436
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_13",
+      "name": "pelo",
+      "type": "domainStory:activity",
+      "multipleNumberAllowed": false,
+      "source": "ap_mail_orc",
+      "target": "ap_se1",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1890,
+            "y": 480
+          },
+          "x": 1934,
+          "y": 480
+        },
+        {
+          "original": {
+            "x": 2190,
+            "y": 480
+          },
+          "x": 2146,
+          "y": 480
+        }
+      ],
+      "pickedColor": "black",
+      "number": null
+    },
+    {
+      "id": "ap_act_14",
+      "name": "ao",
+      "type": "domainStory:activity",
+      "number": 12,
+      "multipleNumberAllowed": true,
+      "source": "ap_se1",
+      "target": "ap_cli2",
+      "waypoints": [
+        {
+          "original": {
+            "x": 2190,
+            "y": 480
+          },
+          "x": 2234,
+          "y": 480
+        },
+        {
+          "original": {
+            "x": 2490,
+            "y": 480
+          },
+          "x": 2446,
+          "y": 480
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_15",
+      "name": "aprova pelo link do e-mail",
+      "type": "domainStory:activity",
+      "number": 13,
+      "multipleNumberAllowed": true,
+      "source": "ap_cli2",
+      "target": "ap_orc",
+      "waypoints": [
+        {
+          "original": {
+            "x": 2490,
+            "y": 480
+          },
+          "x": 2446,
+          "y": 436
+        },
+        {
+          "original": {
+            "x": 2190,
+            "y": 180
+          },
+          "x": 2234,
+          "y": 224
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_16",
+      "name": "dá baixa no estoque",
+      "type": "domainStory:activity",
+      "number": 14,
+      "multipleNumberAllowed": true,
+      "source": "ap_sis3",
+      "target": "ap_ins_os",
+      "waypoints": [
+        {
+          "original": {
+            "x": 2725,
+            "y": 178
+          },
+          "x": 2769,
+          "y": 178
+        },
+        {
+          "original": {
+            "x": 3025,
+            "y": 178
+          },
+          "x": 2981,
+          "y": 178
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_17",
+      "name": "separa para a OS",
+      "type": "domainStory:activity",
+      "number": 15,
+      "multipleNumberAllowed": true,
+      "source": "ap_est1",
+      "target": "ap_ins_os",
+      "waypoints": [
+        {
+          "original": {
+            "x": 3325,
+            "y": 178
+          },
+          "x": 3281,
+          "y": 178
+        },
+        {
+          "original": {
+            "x": 3025,
+            "y": 178
+          },
+          "x": 3069,
+          "y": 178
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_19",
+      "name": "envia",
+      "type": "domainStory:activity",
+      "number": 17,
+      "multipleNumberAllowed": true,
+      "source": "ap_sis3",
+      "target": "ap_mail_ac",
+      "waypoints": [
+        {
+          "original": {
+            "x": 2726,
+            "y": 179
+          },
+          "x": 2726,
+          "y": 245
+        },
+        {
+          "original": {
+            "x": 2725,
+            "y": 368
+          },
+          "x": 2725,
+          "y": 331
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_2",
+      "name": "inicia",
+      "type": "domainStory:activity",
+      "number": 2,
+      "multipleNumberAllowed": true,
+      "source": "ap_at1",
+      "target": "ap_os1",
+      "waypoints": [
+        {
+          "original": {
+            "x": 231,
+            "y": 522
+          },
+          "x": 248,
+          "y": 497
+        },
+        {
+          "x": 421,
+          "y": 245
+        },
+        {
+          "original": {
+            "x": 587,
+            "y": 181
+          },
+          "x": 549,
+          "y": 196
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_20",
+      "name": "pelo",
+      "type": "domainStory:activity",
+      "multipleNumberAllowed": false,
+      "source": "ap_mail_ac",
+      "target": "ap_se2",
+      "waypoints": [
+        {
+          "original": {
+            "x": 2726,
+            "y": 369
+          },
+          "x": 2769,
+          "y": 369
+        },
+        {
+          "original": {
+            "x": 3008,
+            "y": 369
+          },
+          "x": 2970,
+          "y": 369
+        }
+      ],
+      "pickedColor": "black",
+      "number": null
+    },
+    {
+      "id": "ap_act_21",
+      "name": "ao",
+      "type": "domainStory:activity",
+      "number": 17,
+      "multipleNumberAllowed": true,
+      "source": "ap_se2",
+      "target": "ap_cli3",
+      "waypoints": [
+        {
+          "original": {
+            "x": 3008,
+            "y": 369
+          },
+          "x": 3051,
+          "y": 369
+        },
+        {
+          "original": {
+            "x": 3326,
+            "y": 369
+          },
+          "x": 3288,
+          "y": 369
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_22",
+      "name": "finaliza",
+      "type": "domainStory:activity",
+      "number": 18,
+      "multipleNumberAllowed": false,
+      "source": "ap_mec2",
+      "target": "ap_exe_fim",
+      "waypoints": [
+        {
+          "original": {
+            "x": 2726,
+            "y": 501
+          },
+          "x": 2726,
+          "y": 548
+        },
+        {
+          "x": 2726,
+          "y": 595
+        },
+        {
+          "original": {
+            "x": 3174,
+            "y": 595
+          },
+          "x": 3136,
+          "y": 595
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_23",
+      "name": "envia",
+      "type": "domainStory:activity",
+      "number": 19,
+      "multipleNumberAllowed": true,
+      "source": "ap_sis4",
+      "target": "ap_mail_ent",
+      "waypoints": [
+        {
+          "original": {
+            "x": 3550,
+            "y": 180
+          },
+          "x": 3594,
+          "y": 180
+        },
+        {
+          "original": {
+            "x": 3850,
+            "y": 180
+          },
+          "x": 3806,
+          "y": 180
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_24",
+      "name": "pelo",
+      "type": "domainStory:activity",
+      "multipleNumberAllowed": false,
+      "source": "ap_mail_ent",
+      "target": "ap_se3",
+      "waypoints": [
+        {
+          "original": {
+            "x": 3850,
+            "y": 180
+          },
+          "x": 3894,
+          "y": 180
+        },
+        {
+          "original": {
+            "x": 4150,
+            "y": 180
+          },
+          "x": 4106,
+          "y": 180
+        }
+      ],
+      "pickedColor": "black",
+      "number": null
+    },
+    {
+      "id": "ap_act_25",
+      "name": "ao",
+      "type": "domainStory:activity",
+      "number": 19,
+      "multipleNumberAllowed": true,
+      "source": "ap_se3",
+      "target": "ap_cli4",
+      "waypoints": [
+        {
+          "original": {
+            "x": 4150,
+            "y": 180
+          },
+          "x": 4150,
+          "y": 248
+        },
+        {
+          "original": {
+            "x": 4150,
+            "y": 480
+          },
+          "x": 4150,
+          "y": 436
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_26",
+      "name": "entrega",
+      "type": "domainStory:activity",
+      "number": 20,
+      "multipleNumberAllowed": false,
+      "source": "ap_at2",
+      "target": "ap_shape_3336",
+      "waypoints": [
+        {
+          "original": {
+            "x": 3550,
+            "y": 480
+          },
+          "x": 3594,
+          "y": 480
+        },
+        {
+          "original": {
+            "x": 3850,
+            "y": 480
+          },
+          "x": 3806,
+          "y": 480
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_27",
+      "name": "ao",
+      "type": "domainStory:activity",
+      "multipleNumberAllowed": false,
+      "source": "ap_shape_3336",
+      "target": "ap_cli4",
+      "waypoints": [
+        {
+          "original": {
+            "x": 3850,
+            "y": 480
+          },
+          "x": 3894,
+          "y": 480
+        },
+        {
+          "original": {
+            "x": 4150,
+            "y": 480
+          },
+          "x": 4106,
+          "y": 480
+        }
+      ],
+      "pickedColor": "black",
+      "number": null
+    },
+    {
+      "id": "ap_act_3",
+      "name": "cadastra",
+      "type": "domainStory:activity",
+      "number": 3,
+      "multipleNumberAllowed": true,
+      "source": "ap_at1",
+      "target": "ap_cad_cli",
+      "waypoints": [
+        {
+          "original": {
+            "x": 231,
+            "y": 522
+          },
+          "x": 258,
+          "y": 506
+        },
+        {
+          "original": {
+            "x": 587,
+            "y": 312
+          },
+          "x": 549,
+          "y": 334
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_4",
+      "name": "cadastra",
+      "type": "domainStory:activity",
+      "number": 4,
+      "multipleNumberAllowed": true,
+      "source": "ap_at1",
+      "target": "ap_shape_5852",
+      "waypoints": [
+        {
+          "original": {
+            "x": 231,
+            "y": 522
+          },
+          "x": 274,
+          "y": 522
+        },
+        {
+          "x": 399,
+          "y": 522
+        },
+        {
+          "original": {
+            "x": 587,
+            "y": 473
+          },
+          "x": 549,
+          "y": 483
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_5",
+      "name": "recebe",
+      "type": "domainStory:activity",
+      "number": 5,
+      "multipleNumberAllowed": false,
+      "source": "ap_at1",
+      "target": "ap_os_vei",
+      "waypoints": [
+        {
+          "original": {
+            "x": 231,
+            "y": 522
+          },
+          "x": 261,
+          "y": 544
+        },
+        {
+          "x": 321,
+          "y": 589
+        },
+        {
+          "original": {
+            "x": 587,
+            "y": 589
+          },
+          "x": 549,
+          "y": 589
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_6",
+      "name": "inicia o diagnóstico da",
+      "type": "domainStory:activity",
+      "number": 6,
+      "multipleNumberAllowed": false,
+      "source": "ap_mec1",
+      "target": "ap_os2",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1060,
+            "y": 480
+          },
+          "x": 1060,
+          "y": 443
+        },
+        {
+          "x": 1060,
+          "y": 180
+        },
+        {
+          "original": {
+            "x": 1360,
+            "y": 180
+          },
+          "x": 1323,
+          "y": 180
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_7",
+      "name": "inclui na OS",
+      "type": "domainStory:activity",
+      "number": 7,
+      "multipleNumberAllowed": false,
+      "source": "ap_mec1",
+      "target": "ap_serv",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1061,
+            "y": 481
+          },
+          "x": 1088,
+          "y": 465
+        },
+        {
+          "original": {
+            "x": 1360,
+            "y": 302
+          },
+          "x": 1323,
+          "y": 324
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_8",
+      "name": "inclui na OS",
+      "type": "domainStory:activity",
+      "number": 8,
+      "multipleNumberAllowed": false,
+      "source": "ap_mec1",
+      "target": "ap_insumo",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1060,
+            "y": 480
+          },
+          "x": 1104,
+          "y": 480
+        },
+        {
+          "original": {
+            "x": 1360,
+            "y": 480
+          },
+          "x": 1316,
+          "y": 480
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_act_9",
+      "name": "reserva no estoque",
+      "type": "domainStory:activity",
+      "number": 9,
+      "multipleNumberAllowed": false,
+      "source": "ap_sis1",
+      "target": "ap_insumo",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1660,
+            "y": 480
+          },
+          "x": 1616,
+          "y": 480
+        },
+        {
+          "original": {
+            "x": 1360,
+            "y": 480
+          },
+          "x": 1404,
+          "y": 480
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_at1",
+      "name": "Atendente",
+      "type": "domainStory:actorPerson",
+      "x": 193,
+      "y": 484,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_at2",
+      "name": "Atendente",
+      "type": "domainStory:actorPerson",
+      "x": 3513,
+      "y": 443,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_cad_cli",
+      "name": "Cliente (CPF/CNPJ)",
+      "type": "domainStory:workObjectFolder",
+      "x": 549,
+      "y": 274,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_cli1",
+      "name": "Cliente",
+      "type": "domainStory:actorPerson",
+      "x": 193,
+      "y": 143,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_cli2",
+      "name": "Cliente",
+      "type": "domainStory:actorPerson",
+      "x": 2453,
+      "y": 443,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_cli3",
+      "name": "Cliente",
+      "type": "domainStory:actorPerson",
+      "x": 3288,
+      "y": 331,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_cli4",
+      "name": "Cliente",
+      "type": "domainStory:actorPerson",
+      "x": 4113,
+      "y": 443,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "type": "domainStory:activity",
+      "name": "executa os serviços da OS no",
+      "id": "ap_connection_0224",
+      "pickedColor": "black",
+      "number": 16,
+      "waypoints": [
+        {
+          "original": {
+            "x": 2726,
+            "y": 501
+          },
+          "x": 2769,
+          "y": 501
+        },
+        {
+          "original": {
+            "x": 3174,
+            "y": 501
+          },
+          "x": 3136,
+          "y": 501
+        }
+      ],
+      "source": "ap_mec2",
+      "target": "ap_shape_8604",
+      "multipleNumberAllowed": true
+    },
+    {
+      "id": "ap_dados",
+      "name": "Dados do cliente e do veículo",
+      "type": "domainStory:workObjectConversation",
+      "x": 193,
+      "y": 299,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_diag",
+      "name": "Diagnóstico",
+      "type": "domainStory:workObjectDocument",
+      "x": 1323,
+      "y": 579,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_est1",
+      "name": "Estoquista",
+      "type": "domainStory:actorPerson",
+      "x": 3288,
+      "y": 141,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_exe_fim",
+      "name": "Ordem de Serviço (OS)",
+      "type": "domainStory:workObjectDocument",
+      "x": 3136,
+      "y": 557,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_g_at",
+      "name": "Atendimento",
+      "type": "domainStory:group",
+      "x": 150,
+      "y": 100,
+      "width": 790,
+      "height": 574,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_g_diag",
+      "name": "Diagnóstico",
+      "type": "domainStory:group",
+      "x": 980,
+      "y": 100,
+      "width": 790,
+      "height": 574,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_g_ent",
+      "name": "Entrega",
+      "type": "domainStory:group",
+      "x": 3470,
+      "y": 100,
+      "width": 790,
+      "height": 574,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_g_exe",
+      "name": "Execução",
+      "type": "domainStory:group",
+      "x": 2645,
+      "y": 98,
+      "width": 790,
+      "height": 576,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_g_orc",
+      "name": "Orçamento",
+      "type": "domainStory:group",
+      "x": 1810,
+      "y": 100,
+      "width": 790,
+      "height": 574,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_ins_os",
+      "name": "Insumos da OS",
+      "type": "domainStory:workObjectFolder",
+      "x": 2988,
+      "y": 141,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_insumo",
+      "name": "Insumo",
+      "type": "domainStory:workObjectFolder",
+      "x": 1323,
+      "y": 443,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_mail_ac",
+      "name": "E-mail de acompanhamento",
+      "type": "domainStory:workObjectEmail",
+      "x": 2688,
+      "y": 331,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_mail_ent",
+      "name": "E-mail de entrega",
+      "type": "domainStory:workObjectEmail",
+      "x": 3813,
+      "y": 143,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_mail_orc",
+      "name": "E-mail de orçamento",
+      "type": "domainStory:workObjectEmail",
+      "x": 1853,
+      "y": 443,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_mec1",
+      "name": "Mecânico",
+      "type": "domainStory:actorPerson",
+      "x": 1023,
+      "y": 443,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_mec2",
+      "name": "Mecânico",
+      "type": "domainStory:actorPerson",
+      "x": 2688,
+      "y": 463,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_n_dados",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "text": "Dados do cliente e veículo informados: nome, documento, e-mail, telefone, placa, marca, modelo e ano do veículo. Cliente e veículo só são cadastrados se forem novos",
+      "x": 682,
+      "y": 357,
+      "width": 230.72705802968963,
+      "height": 101.59412955465588,
+      "pickedColor": "black",
+      "number": 101.59412955465588
+    },
+    {
+      "id": "ap_n_dados_c0",
+      "name": "",
+      "type": "domainStory:connection",
+      "source": "ap_cad_cli",
+      "target": "ap_n_dados",
+      "waypoints": [
+        {
+          "original": {
+            "x": 587,
+            "y": 312
+          },
+          "x": 616,
+          "y": 335
+        },
+        {
+          "original": {
+            "x": 678,
+            "y": 384
+          },
+          "x": 678,
+          "y": 384
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_n_dados_c1",
+      "name": "",
+      "type": "domainStory:connection",
+      "source": "ap_shape_5852",
+      "target": "ap_n_dados",
+      "waypoints": [
+        {
+          "original": {
+            "x": 587,
+            "y": 473
+          },
+          "x": 616,
+          "y": 460
+        },
+        {
+          "original": {
+            "x": 686,
+            "y": 428
+          },
+          "x": 682,
+          "y": 430
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_n_link",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "text": "Ao iniciar a execução, o cliente recebe o link para acompanhamento da OS",
+      "x": 3110,
+      "y": 260,
+      "width": 160,
+      "height": 55,
+      "pickedColor": "black",
+      "number": 55
+    },
+    {
+      "id": "ap_n_link_c0",
+      "name": "",
+      "type": "domainStory:connection",
+      "source": "ap_se2",
+      "target": "ap_n_link",
+      "waypoints": [
+        {
+          "original": {
+            "x": 3008,
+            "y": 369
+          },
+          "x": 3039,
+          "y": 358
+        },
+        {
+          "original": {
+            "x": 3195,
+            "y": 303
+          },
+          "x": 3161,
+          "y": 315
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_n_orc",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "text": "Orçamento = serviços + preço x quantidade de cada insumo",
+      "x": 2405,
+      "y": 150,
+      "width": 170,
+      "height": 70,
+      "pickedColor": "black",
+      "number": 70
+    },
+    {
+      "id": "ap_n_orc_c0",
+      "name": "",
+      "type": "domainStory:connection",
+      "source": "ap_orc",
+      "target": "ap_n_orc",
+      "waypoints": [
+        {
+          "original": {
+            "x": 2190,
+            "y": 180
+          },
+          "x": 2234,
+          "y": 181
+        },
+        {
+          "original": {
+            "x": 2490,
+            "y": 185
+          },
+          "x": 2403,
+          "y": 184
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_n_reserva",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "text": "Reserva a quantidade disponível",
+      "x": 1575,
+      "y": 600,
+      "width": 170,
+      "height": 54,
+      "pickedColor": "black",
+      "number": 54
+    },
+    {
+      "id": "ap_n_reserva_c0",
+      "name": "",
+      "type": "domainStory:connection",
+      "source": "ap_insumo",
+      "target": "ap_n_reserva",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1360,
+            "y": 480
+          },
+          "x": 1404,
+          "y": 501
+        },
+        {
+          "original": {
+            "x": 1660,
+            "y": 627
+          },
+          "x": 1601,
+          "y": 598
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_orc",
+      "name": "Orçamento",
+      "type": "domainStory:workObjectDocument",
+      "x": 2153,
+      "y": 143,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_os_vei",
+      "name": "OS com o veículo",
+      "type": "domainStory:workObjectDocument",
+      "x": 549,
+      "y": 551,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_os1",
+      "name": "Ordem de Serviço (OS)",
+      "type": "domainStory:workObjectDocument",
+      "x": 549,
+      "y": 143,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_os2",
+      "name": "OS",
+      "type": "domainStory:workObjectDocument",
+      "x": 1323,
+      "y": 143,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_se1",
+      "name": "Serviço de e-mail",
+      "type": "domainStory:actorSystem",
+      "x": 2153,
+      "y": 443,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_se2",
+      "name": "Serviço de e-mail",
+      "type": "domainStory:actorSystem",
+      "x": 2970,
+      "y": 331,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_se3",
+      "name": "Serviço de e-mail",
+      "type": "domainStory:actorSystem",
+      "x": 4113,
+      "y": 143,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_serv",
+      "name": "Serviço",
+      "type": "domainStory:workObjectFolder",
+      "x": 1323,
+      "y": 265,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "type": "domainStory:workObjectCar",
+      "name": "Veículo",
+      "id": "ap_shape_3336",
+      "x": 3813,
+      "y": 443,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "type": "domainStory:workObjectCar",
+      "name": "Veículo",
+      "id": "ap_shape_5852",
+      "x": 549,
+      "y": 435,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "type": "domainStory:workObjectCar",
+      "name": "Veículo",
+      "id": "ap_shape_8604",
+      "x": 3136,
+      "y": 463,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_sis1",
+      "name": "Sistema da oficina",
+      "type": "domainStory:actorSystem",
+      "x": 1623,
+      "y": 443,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_sis2",
+      "name": "Sistema da oficina",
+      "type": "domainStory:actorSystem",
+      "x": 1853,
+      "y": 143,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_sis3",
+      "name": "Sistema da oficina",
+      "type": "domainStory:actorSystem",
+      "x": 2688,
+      "y": 141,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_sis4",
+      "name": "Sistema da oficina",
+      "type": "domainStory:actorSystem",
+      "x": 3513,
+      "y": 143,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ap_titulo",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "text": "OS com orçamento aprovado",
+      "x": 150,
+      "y": 43,
+      "width": 320,
+      "height": 30,
+      "pickedColor": "black",
+      "number": 30
+    },
+    {
+      "id": "ga_act_0",
+      "name": "atualiza",
+      "type": "domainStory:activity",
+      "number": 1,
+      "multipleNumberAllowed": true,
+      "source": "ga_at",
+      "target": "ga_cli",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1790,
+            "y": 1128
+          },
+          "x": 1790,
+          "y": 1090
+        },
+        {
+          "x": 1790,
+          "y": 953
+        },
+        {
+          "original": {
+            "x": 2135,
+            "y": 953
+          },
+          "x": 2098,
+          "y": 953
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_act_1",
+      "name": "atualiza",
+      "type": "domainStory:activity",
+      "number": 2,
+      "multipleNumberAllowed": true,
+      "source": "ga_at",
+      "target": "ga_vei",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1790,
+            "y": 1128
+          },
+          "x": 1832,
+          "y": 1128
+        },
+        {
+          "original": {
+            "x": 2135,
+            "y": 1128
+          },
+          "x": 2094,
+          "y": 1128
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_act_2",
+      "name": "mantém",
+      "type": "domainStory:activity",
+      "number": 3,
+      "multipleNumberAllowed": true,
+      "source": "ga_at",
+      "target": "ga_serv",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1790,
+            "y": 1128
+          },
+          "x": 1790,
+          "y": 1175
+        },
+        {
+          "x": 1790,
+          "y": 1303
+        },
+        {
+          "original": {
+            "x": 2135,
+            "y": 1303
+          },
+          "x": 2098,
+          "y": 1303
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_act_3",
+      "name": "mantém",
+      "type": "domainStory:activity",
+      "number": 3,
+      "multipleNumberAllowed": true,
+      "source": "ga_mec",
+      "target": "ga_serv",
+      "waypoints": [
+        {
+          "original": {
+            "x": 2480,
+            "y": 1303
+          },
+          "x": 2439,
+          "y": 1303
+        },
+        {
+          "original": {
+            "x": 2135,
+            "y": 1303
+          },
+          "x": 2177,
+          "y": 1303
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_act_4",
+      "name": "atualiza",
+      "type": "domainStory:activity",
+      "number": 4,
+      "multipleNumberAllowed": true,
+      "source": "ga_est",
+      "target": "ga_ins",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1790,
+            "y": 1513
+          },
+          "x": 1832,
+          "y": 1513
+        },
+        {
+          "original": {
+            "x": 2135,
+            "y": 1513
+          },
+          "x": 2094,
+          "y": 1513
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_at",
+      "name": "Atendente",
+      "type": "domainStory:actorPerson",
+      "x": 1753,
+      "y": 1090,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_cli",
+      "name": "Cliente",
+      "type": "domainStory:workObjectFolder",
+      "x": 2098,
+      "y": 915,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_est",
+      "name": "Estoquista",
+      "type": "domainStory:actorPerson",
+      "x": 1753,
+      "y": 1476,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_g_ga",
+      "name": "Gestão administrativa",
+      "type": "domainStory:group",
+      "x": 1715,
+      "y": 861,
+      "width": 840,
+      "height": 714,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_ins",
+      "name": "Insumo",
+      "type": "domainStory:workObjectFolder",
+      "x": 2098,
+      "y": 1476,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_mec",
+      "name": "Mecânico",
+      "type": "domainStory:actorPerson",
+      "x": 2443,
+      "y": 1266,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_n_ind",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "text": "Atividades independentes entre si. Consultas por documento, placa, nome ou código",
+      "x": 2298,
+      "y": 960,
+      "width": 152,
+      "height": 84,
+      "pickedColor": "black",
+      "number": 84
+    },
+    {
+      "id": "ga_n_ind_c0",
+      "name": "",
+      "type": "domainStory:connection",
+      "source": "ga_cli",
+      "target": "ga_n_ind",
+      "waypoints": [
+        {
+          "original": {
+            "x": 2136,
+            "y": 953
+          },
+          "x": 2179,
+          "y": 962
+        },
+        {
+          "original": {
+            "x": 2383,
+            "y": 1005
+          },
+          "x": 2298,
+          "y": 987
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_serv",
+      "name": "Lista de Serviços",
+      "type": "domainStory:workObjectFolder",
+      "x": 2098,
+      "y": 1266,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "ga_titulo",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "text": "Gestão administrativa",
+      "x": 1715,
+      "y": 806,
+      "width": 320,
+      "height": 30,
+      "pickedColor": "black",
+      "number": 30
+    },
+    {
+      "id": "ga_vei",
+      "name": "Veículo",
+      "type": "domainStory:workObjectFolder",
+      "x": 2098,
+      "y": 1090,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_act_0",
+      "name": "rejeita pelo link do e-mail",
+      "type": "domainStory:activity",
+      "number": 13,
+      "multipleNumberAllowed": true,
+      "source": "rj_cli",
+      "target": "rj_orc",
+      "waypoints": [
+        {
+          "original": {
+            "x": 229,
+            "y": 1207
+          },
+          "x": 229,
+          "y": 1169
+        },
+        {
+          "x": 229,
+          "y": 979
+        },
+        {
+          "original": {
+            "x": 549,
+            "y": 979
+          },
+          "x": 511,
+          "y": 979
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_act_1",
+      "name": "encerra como reprovada",
+      "type": "domainStory:activity",
+      "number": 14,
+      "multipleNumberAllowed": true,
+      "source": "rj_sis",
+      "target": "rj_os",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1190,
+            "y": 1207
+          },
+          "x": 1190,
+          "y": 1147
+        },
+        {
+          "original": {
+            "x": 1190,
+            "y": 979
+          },
+          "x": 1190,
+          "y": 1038
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_act_2",
+      "name": "libera a reserva no estoque",
+      "type": "domainStory:activity",
+      "number": 15,
+      "multipleNumberAllowed": true,
+      "source": "rj_sis",
+      "target": "rj_ins_os",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1190,
+            "y": 1207
+          },
+          "x": 1233,
+          "y": 1207
+        },
+        {
+          "original": {
+            "x": 1499,
+            "y": 1207
+          },
+          "x": 1462,
+          "y": 1207
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_act_3",
+      "name": "envia",
+      "type": "domainStory:activity",
+      "number": 16,
+      "multipleNumberAllowed": true,
+      "source": "rj_sis",
+      "target": "rj_mail_ent",
+      "waypoints": [
+        {
+          "original": {
+            "x": 1190,
+            "y": 1207
+          },
+          "x": 1148,
+          "y": 1207
+        },
+        {
+          "original": {
+            "x": 869,
+            "y": 1207
+          },
+          "x": 911,
+          "y": 1207
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_act_4",
+      "name": "pelo",
+      "type": "domainStory:activity",
+      "multipleNumberAllowed": false,
+      "source": "rj_mail_ent",
+      "target": "rj_se",
+      "waypoints": [
+        {
+          "original": {
+            "x": 869,
+            "y": 1207
+          },
+          "x": 828,
+          "y": 1207
+        },
+        {
+          "original": {
+            "x": 549,
+            "y": 1207
+          },
+          "x": 590,
+          "y": 1207
+        }
+      ],
+      "pickedColor": "black",
+      "number": null
+    },
+    {
+      "id": "rj_act_5",
+      "name": "ao",
+      "type": "domainStory:activity",
+      "number": 16,
+      "multipleNumberAllowed": true,
+      "source": "rj_se",
+      "target": "rj_cli",
+      "waypoints": [
+        {
+          "original": {
+            "x": 549,
+            "y": 1207
+          },
+          "x": 507,
+          "y": 1207
+        },
+        {
+          "original": {
+            "x": 228,
+            "y": 1207
+          },
+          "x": 270,
+          "y": 1207
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_act_6",
+      "name": "devolve",
+      "type": "domainStory:activity",
+      "number": 17,
+      "multipleNumberAllowed": true,
+      "source": "rj_at",
+      "target": "rj_vei",
+      "waypoints": [
+        {
+          "original": {
+            "x": 870,
+            "y": 1399
+          },
+          "x": 832,
+          "y": 1399
+        },
+        {
+          "original": {
+            "x": 549,
+            "y": 1399
+          },
+          "x": 592,
+          "y": 1399
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_act_7",
+      "name": "ao",
+      "type": "domainStory:activity",
+      "multipleNumberAllowed": false,
+      "source": "rj_vei",
+      "target": "rj_cli",
+      "waypoints": [
+        {
+          "original": {
+            "x": 549,
+            "y": 1399
+          },
+          "x": 511,
+          "y": 1399
+        },
+        {
+          "x": 229,
+          "y": 1399
+        },
+        {
+          "original": {
+            "x": 229,
+            "y": 1207
+          },
+          "x": 229,
+          "y": 1254
+        }
+      ],
+      "pickedColor": "black",
+      "number": null
+    },
+    {
+      "id": "rj_at",
+      "name": "Atendente",
+      "type": "domainStory:actorPerson",
+      "x": 832,
+      "y": 1361,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_cli",
+      "name": "Cliente",
+      "type": "domainStory:actorPerson",
+      "x": 191,
+      "y": 1169,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_g_rej",
+      "name": "Orçamento rejeitado e devolução",
+      "type": "domainStory:group",
+      "x": 155,
+      "y": 861,
+      "width": 1432,
+      "height": 670,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_ins_os",
+      "name": "Insumos da OS",
+      "type": "domainStory:workObjectFolder",
+      "x": 1462,
+      "y": 1169,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_mail_ent",
+      "name": "E-mail de entrega",
+      "type": "domainStory:workObjectEmail",
+      "x": 832,
+      "y": 1169,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_n_reprov",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "text": "A OS reprovada não passa pela execução, segue direto para a entrega do veículo",
+      "x": 1105,
+      "y": 1325,
+      "width": 169.9924698795181,
+      "height": 89.99838640275388,
+      "pickedColor": "black",
+      "number": 89.99838640275388
+    },
+    {
+      "id": "rj_n_reprov_c0",
+      "name": "",
+      "type": "domainStory:connection",
+      "source": "rj_at",
+      "target": "rj_n_reprov",
+      "waypoints": [
+        {
+          "original": {
+            "x": 870,
+            "y": 1399
+          },
+          "x": 909,
+          "y": 1395
+        },
+        {
+          "original": {
+            "x": 1190,
+            "y": 1370
+          },
+          "x": 1105,
+          "y": 1378
+        }
+      ],
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_orc",
+      "name": "Orçamento",
+      "type": "domainStory:workObjectDocument",
+      "x": 511,
+      "y": 941,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_os",
+      "name": "OS",
+      "type": "domainStory:workObjectDocument",
+      "x": 1152,
+      "y": 941,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_se",
+      "name": "Serviço de e-mail",
+      "type": "domainStory:actorSystem",
+      "x": 511,
+      "y": 1169,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_sis",
+      "name": "Sistema da oficina",
+      "type": "domainStory:actorSystem",
+      "x": 1152,
+      "y": 1169,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "id": "rj_titulo",
+      "type": "domainStory:textAnnotation",
+      "name": "",
+      "text": "OS com orçamento rejeitado",
+      "x": 155,
+      "y": 806,
+      "width": 319.99840459476707,
+      "height": 29.993618379068284,
+      "pickedColor": "black",
+      "number": 29.993618379068284
+    },
+    {
+      "id": "rj_vei",
+      "name": "Veículo",
+      "type": "domainStory:workObjectCar",
+      "x": 511,
+      "y": 1361,
+      "width": 75,
+      "height": 75,
+      "pickedColor": "black"
+    },
+    {
+      "info": ""
+    },
+    {
+      "version": "3.2.1"
+    }
+  ]
+}
+ </DST> -->
